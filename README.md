@@ -1,0 +1,1 @@
+Sobre este projeto : Eu criei uma base de dados fictícia dentro do SQL eu fiz varias queries e com base nessas consultas eu fiz um dashboard detalhado com os mesmos tópicos que eu extrai dentro do banco de dados , tentei deixar o dashboard mais caprichado possivel.
